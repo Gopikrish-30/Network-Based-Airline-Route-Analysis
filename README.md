@@ -5,7 +5,7 @@ This project analyzes airline routes using graph theory to uncover insights into
 ## 📁 Project Structure
 
 - `airline.csv` - Raw dataset containing airport and route details
-- `graphh.ipynb` - Jupyter notebook for graph construction, analysis, and visualization
+- `airline_route_analysis.ipynb` - Jupyter notebook for graph construction, analysis, and visualization
 - `Graph Case Study.pptx` - Presentation summarizing the methodology and key findings
 - `final_report.pdf` - Full analytical report with insights and recommendations
 
@@ -44,6 +44,6 @@ This analysis helps:
 Clone the repo and run the notebook:
 
 ```bash
-git clone https://github.com/your-username/airline-centrality-analysis.git
-cd airline-centrality-analysis
+git clone https://github.com/Gopikrish-30/Network-Based-Airline-Route-Analysis.git
+cd Network-Based-Airline-Route-Analysis
 jupyter notebook:  airline_route_analysis.ipynb
